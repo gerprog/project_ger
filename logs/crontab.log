@@ -1,0 +1,27 @@
+Using sandbox sandbox_
+ * Stopping web server apache2
+   ...done.
+Rather than invoking init scripts through /etc/init.d, use the service(8)
+utility, e.g. service mysql stop
+
+Since the script you are attempting to invoke has been converted to an
+Upstart job, you may also use the stop(8) utility, e.g. stop mysql
+Cloning into 'deployment_form_index'...
+ * Starting web server apache2
+Action 'start' failed.
+The Apache error log may have more information.
+   ...fail!
+Rather than invoking init scripts through /etc/init.d, use the service(8)
+utility, e.g. service mysql start
+
+Since the script you are attempting to invoke has been converted to an
+Upstart job, you may also use the start(8) utility, e.g. start mysql
+name	address
+Ger Daly	Here There
+webpackage/
+webpackage/script1.plx
+webpackage/script2.plx
+webpackage/form.htm
+webpackage/index.htm
+ab010bbe3f390f36a0889b04b3987442 equal to
+no change in files, doing nothing and exiting

@@ -1,0 +1,17 @@
+The port 3306 is listening for mySQL on 2014-01-25 18:36:12
+There are 1 instances of mySQL running on 2014-01-25 18:47:44
+There are  4 instances of Apache running on 2014-01-25 18:47:44
+The port 80 is listening for Apache on 2014-01-25 18:47:44
+The port 3306 is listening for mySQL on 2014-01-25 18:47:44
+There are 1 instances of mySQL running on 2014-01-25 19:43:15
+There are  4 instances of Apache running on 2014-01-25 19:43:15
+The port 80 is listening for Apache on 2014-01-25 19:43:15
+The port 3306 is listening for mySQL on 2014-01-25 19:43:15
+There are 1 instances of mySQL running on 2014-01-25 19:53:05
+There are  4 instances of Apache running on 2014-01-25 19:53:05
+The port 80 is listening for Apache on 2014-01-25 19:53:05
+The port 3306 is listening for mySQL on 2014-01-25 19:53:05
+There are 1 instances of mySQL running on 2014-01-25 20:04:56
+There are  4 instances of Apache running on 2014-01-25 20:04:56
+The port 80 is listening for Apache on 2014-01-25 20:04:56
+The port 3306 is listening for mySQL on 2014-01-25 20:04:56
